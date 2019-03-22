@@ -1,3 +1,4 @@
+''' Password verification and time calculation'''
 import time
 
 def error():
