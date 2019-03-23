@@ -1,3 +1,5 @@
+''' One line password validation'''
+
 import re
 password = input("Enter the password\n")
 
